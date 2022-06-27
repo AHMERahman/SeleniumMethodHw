@@ -31,7 +31,7 @@ public class Use_of_get_method1 {
 
 	}
 
-	@Test
+	@Test(enabled=true, priority=1)
 	public void loginInfo() throws InterruptedException {
 
 		driver.findElement(By.xpath("//input[@id='email']")).sendKeys("xyz@yahoo.com");

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9854" started-at="2022-06-26T19:28:33 EDT" finished-at="2022-06-26T19:28:43 EDT">
+  <suite name="Default suite" duration-ms="12189" started-at="2022-06-27T16:50:30 EDT" finished-at="2022-06-27T16:50:42 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9854" started-at="2022-06-26T19:28:33 EDT" finished-at="2022-06-26T19:28:43 EDT">
+    <test name="Default test" duration-ms="12189" started-at="2022-06-27T16:50:30 EDT" finished-at="2022-06-27T16:50:42 EDT">
       <class name="hw14.Use_of_click_method">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:hw14.Use_of_click_method@8646db9]" name="openBrowser" is-config="true" duration-ms="4586" started-at="2022-06-26T19:28:33 EDT" finished-at="2022-06-26T19:28:37 EDT">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:hw14.Use_of_click_method@8646db9]" name="openBrowser" is-config="true" duration-ms="6963" started-at="2022-06-27T16:50:30 EDT" finished-at="2022-06-27T16:50:37 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="loginInfo()[pri:0, instance:hw14.Use_of_click_method@8646db9]" name="loginInfo" duration-ms="5219" started-at="2022-06-26T19:28:37 EDT" finished-at="2022-06-26T19:28:43 EDT">
+        <test-method status="PASS" signature="amazonPage()[pri:2, instance:hw14.Use_of_click_method@8646db9]" name="amazonPage" duration-ms="5146" started-at="2022-06-27T16:50:37 EDT" finished-at="2022-06-27T16:50:42 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginInfo -->
-        <test-method status="PASS" signature="tearUp()[pri:0, instance:hw14.Use_of_click_method@8646db9]" name="tearUp" is-config="true" duration-ms="1" started-at="2022-06-26T19:28:43 EDT" finished-at="2022-06-26T19:28:43 EDT">
+        </test-method> <!-- amazonPage -->
+        <test-method status="PASS" signature="tearUp()[pri:0, instance:hw14.Use_of_click_method@8646db9]" name="tearUp" is-config="true" duration-ms="0" started-at="2022-06-27T16:50:42 EDT" finished-at="2022-06-27T16:50:42 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearUp -->
